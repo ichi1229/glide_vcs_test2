@@ -1,10 +1,8 @@
 package subpkg
 
-var SubVar1 int
-var SubVar2 int
+var SubVar string
 
 func SubFunc() {
-    SubVar1 = 10
-    SubVar2 = 20
+    SubVar = "This is OSS ver"
 }
 
